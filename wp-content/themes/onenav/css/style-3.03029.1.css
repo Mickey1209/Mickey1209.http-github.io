@@ -1001,7 +1001,7 @@ input.nav-link:disabled,input.nav-link[readonly]{background-color:transparent;op
 .io-grey-mode .border-color{border-color:transparent!important}
 .io-grey-mode .sidebar-nav .flex-bottom a,.io-grey-mode .sidebar-menu-inner a{color:#515C6B}
 .io-grey-mode .sidebar-item ul{background:none}
-.io-grey-mode .sidebar-show,.io-grey-mode .sidebar-item>a:hover{color:#f1404b;background:none}
+.io-grey-mode .sidebar-show,.io-grey-mode .sidebar-item>a:hover{color:#19A8F4;background:none}
 .io-grey-mode .sidebar-popup div{background:#dadbdd}
 .io-grey-mode .sidebar-popup::before{border-color:transparent #dadbdd transparent}
 .io-grey-mode .sidebar-nav,.io-grey-mode .sidebar-popup.sidebar-menu-inner ul li{background:#f0f2f4}
